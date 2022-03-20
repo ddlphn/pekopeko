@@ -6,8 +6,8 @@
 
 module.exports = {
   siteName: 'PekoPeko',
-  siteDescription: 'Write a description here',
-  siteUrl: 'https://github.com/DelpDuss',
+  siteDescription: '日本語を習う',
+  siteUrl: 'https://github.com/DelpDuss/pekopeko',
   pathPrefix: '/pekopeko',
   plugins: [
     {
